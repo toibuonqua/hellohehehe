@@ -1,3 +1,10 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://wallpapersite.com/images/wallpapers/airplane-4200x2608-aircraft-air-travel-4k-1028.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}    
 .textstyle{
     font-family: 'iCiel Pacifico';
     color: rgb(49, 96, 199);
@@ -17,4 +24,7 @@
   }
 .shadow{
     text-shadow: 3px 3px 0 white;
+}
+.bshadow{
+    box-shadow: 3px 3px 0 white
 }
