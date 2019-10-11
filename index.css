@@ -9,7 +9,7 @@
   }
   
   .flex-container > div {
-    width: auto
+    width: auto;
     margin: 10px;
     text-align: center;
     line-height: 75px;
