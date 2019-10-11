@@ -25,6 +25,44 @@ body{
 .shadow{
     text-shadow: 3px 3px 0 white;
 }
-.bshadow{
-    box-shadow: 3px 3px 0 white
-}
+.button {
+    margin-left: 35%;
+    margin-top: 35px; 
+    border-radius: 40px;
+    box-shadow: 1px 2px 0 white;
+    background-color: rgb(49, 96, 199);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 3px 3px 0 rgb(240, 226, 39);
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
