@@ -2,8 +2,7 @@
     font-family: 'Times New Roman';
     color: blue;
     font-size: 100px;
-    text-align: center ;
-
+    text-align: center;
 }
 .display-text-middle{
     position: absolute;
@@ -12,5 +11,5 @@
     transform: translate(-50%,-50%);
 }
 .shadow{
-    text-shadow: 3px 3px 0 rgb(247, 233, 44);
+    text-shadow: 3px 3px 0 white;
 }
