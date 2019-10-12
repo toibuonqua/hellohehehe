@@ -13,6 +13,7 @@ body{
 .flex-container {
     display: flex;
     justify-content: center;
+    position: relative;
   }
   
   .flex-container > div {
