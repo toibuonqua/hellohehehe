@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/C%E1%BA%A7u_Th%C3%AA_H%C3%BAc_%28H%C3%A0_N%E1%BB%99i%29.jpg/800px-C%E1%BA%A7u_Th%C3%AA_H%C3%BAc_%28H%C3%A0_N%E1%BB%99i%29.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}    
+.flex-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .flex-container > div {
+    width: auto;
+    margin: 60px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  .textstyle{
+    font-family: 'iCiel Pacifico';
+    color: rgb(49, 96, 199);
+    text-align: center;
+}
+.shadow{
+    text-shadow: 2px 2px 2px 2px black;
+}
