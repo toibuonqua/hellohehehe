@@ -28,7 +28,7 @@ body{
     text-shadow: 4px 2px white;
 }
 .pic{
-    width: auto;
+    width: 480px;
     padding-left: 10px;
     padding-right: 10px;
     height:310px;
