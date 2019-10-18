@@ -28,10 +28,10 @@ body{
     text-shadow: 4px 2px white;
 }
 .pic{
-    width: 550px;
+    width: auto;
     padding-left: 10px;
     padding-right: 10px;
-    height: 400px;
+    height:310px;
 }
 .button {
   margin-left: 35%;
