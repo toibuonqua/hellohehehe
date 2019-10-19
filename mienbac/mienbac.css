@@ -1,6 +1,7 @@
 body{
     height: 100%;
     width: 100%;
+    margin: 0px;
     background-image: url("https://wallpapercave.com/wp/wp2691218.jpg?fbclid=IwAR09MKQfM0OGio8TEFBzcgbrklBvouC6Og1n36vFKbA7OX9hPL1xktp9Bjw");
     background-repeat: no-repeat;
     background-size:cover;
@@ -11,7 +12,7 @@ body{
     text-shadow: 2px 2px 0 white;
     font-family: 'iCiel Nabila';
     background-color: antiquewhite;
-    width: 700px;
+    width: 75%;
     display: flex;
     margin: auto;
     justify-content: center;
@@ -41,10 +42,10 @@ body{
     text-shadow: 4px 2px white;
 }
 .pic{
-    width: 480px;
-    padding-left: 10px;
-    padding-right: 10px;
-    height:310px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height:50%;
 }
 .button {
   margin-left: 35%;
