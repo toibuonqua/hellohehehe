@@ -11,9 +11,9 @@ body{
     text-align: center;
 }
 .flex-container {
+    width: 100%;
     display: flex;
-    justify-content: center;
-    position: relative;
+    position: static;
   }
   
   .flex-container > div {
