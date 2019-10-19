@@ -1,2 +1,2 @@
 
-# domin : https://vigorous-euler-d197e3.netlify.com/
+# domain : https://vigorous-euler-d197e3.netlify.com/
