@@ -1238,8 +1238,8 @@
 }
 body {
   background-image: url(https://wallpapersite.com/images/wallpapers/airplane-4200x2608-aircraft-air-travel-4k-1028.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #37474F;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
@@ -1259,4 +1259,5 @@ h3 {
     padding: 0%;
     margin-left: 31%;
     margin-bottom: 6%;
+    box-shadow: 0px 0px 15px 10px;
 }

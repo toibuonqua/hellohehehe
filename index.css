@@ -67,3 +67,14 @@ body{
     opacity: 1;
     right: 0;
   }
+  .mediascr{
+    max-width: 800px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media screen and (max-width: 767px) {
+    .mediascr {
+      height: auto;
+    }
+  }
